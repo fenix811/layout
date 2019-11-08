@@ -10,6 +10,7 @@ export class AdminPage1Component implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    debugger;
   }
 
 }
